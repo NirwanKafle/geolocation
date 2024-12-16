@@ -1,0 +1,61 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+    background-image: url(img/Boudhanath_Panorama.jpg);
+    background-position: 0%;
+    background-repeat: no-repeat;
+    background-size:1545px 1245px ;
+}
+
+header {
+    background-color: #2f618b;
+    color: rgb(20, 4, 4);
+    padding: 15px 0;
+    font-variant: small-caps;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+h1 {
+    margin: 0;
+}
+
+#container {
+    margin: 50px auto;
+    max-width: 600px;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+button {
+    background-color: #549fdb;
+    border-radius: 25px;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-variant: small-caps;
+}
+
+button:hover {
+    background-color: #005fa3;
+}
+
+#output {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
+
+footer {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #555;
+}
